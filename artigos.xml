@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE revisoes SYSTEM "artigos.dtd">
+<artigos>
+    <artigo data="13/02/2003" ultima_revisao="07/2019" versao="1.3v">
+        <autor>Marcos da Silva</autor>
+        <titulo>As navegações na ilha maluquinha</titulo>
+        <secao>4.0_Master</secao>
+        <resumo>Obra de grande maravilha em uma navigação</resumo>
+        <biografia>
+            <referencia id="1">
+                <obra>Menino Maluquinho</obra>
+                <autor>Ziraldo</autor>
+                <ano>1973</ano>
+                <local>São Paulo-SP</local>
+            </referencia>
+            <referencia>
+                <obra>Sítio do pica-pau amarelo</obra>
+                <autor>Arnaldo</autor>
+            </referencia>
+        </biografia>
+    </artigo>
+</artigos>
